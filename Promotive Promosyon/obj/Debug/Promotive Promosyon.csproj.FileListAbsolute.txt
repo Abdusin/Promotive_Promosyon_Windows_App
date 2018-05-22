@@ -1,0 +1,17 @@
+C:\Users\Hope\source\repos\Promotive Promosyon\Promotive Promosyon\bin\Debug\Promotive Promosyon.exe.config
+C:\Users\Hope\source\repos\Promotive Promosyon\Promotive Promosyon\bin\Debug\Promotive Promosyon.exe
+C:\Users\Hope\source\repos\Promotive Promosyon\Promotive Promosyon\bin\Debug\Promotive Promosyon.pdb
+C:\Users\Hope\source\repos\Promotive Promosyon\Promotive Promosyon\bin\Debug\Bunifu_UI_v1.52.dll
+C:\Users\Hope\source\repos\Promotive Promosyon\Promotive Promosyon\obj\Debug\Promotive Promosyon.csprojAssemblyReference.cache
+C:\Users\Hope\source\repos\Promotive Promosyon\Promotive Promosyon\obj\Debug\Promotive_Promosyon.Form1.resources
+C:\Users\Hope\source\repos\Promotive Promosyon\Promotive Promosyon\obj\Debug\Promotive_Promosyon.Properties.Resources.resources
+C:\Users\Hope\source\repos\Promotive Promosyon\Promotive Promosyon\obj\Debug\Promotive Promosyon.csproj.GenerateResource.cache
+C:\Users\Hope\source\repos\Promotive Promosyon\Promotive Promosyon\obj\Debug\Promotive Promosyon.csproj.CoreCompileInputs.cache
+C:\Users\Hope\source\repos\Promotive Promosyon\Promotive Promosyon\obj\Debug\Promotive Promosyon.csproj.CopyComplete
+C:\Users\Hope\source\repos\Promotive Promosyon\Promotive Promosyon\obj\Debug\Promotive Promosyon.exe
+C:\Users\Hope\source\repos\Promotive Promosyon\Promotive Promosyon\obj\Debug\Promotive Promosyon.pdb
+C:\Users\Hope\source\repos\Promotive Promosyon\Promotive Promosyon\bin\Debug\MySql.Data.dll
+C:\Users\Hope\source\repos\Promotive Promosyon\Promotive Promosyon\bin\Debug\Google.Protobuf.dll
+C:\Users\Hope\source\repos\Promotive Promosyon\Promotive Promosyon\bin\Debug\MySql.Data.xml
+C:\Users\Hope\source\repos\Promotive Promosyon\Promotive Promosyon\obj\Debug\Promotive_Promosyon.Form2.resources
+C:\Users\Hope\source\repos\Promotive Promosyon\Promotive Promosyon\obj\Debug\Promotive_Promosyon.Form3.resources
